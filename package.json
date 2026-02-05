@@ -26,7 +26,7 @@
     "eslint": "^4.19.1",
     "eslint-config-standard": "^10.2.1",
     "eslint-plugin-import": "^2.13.0",
-    "eslint-plugin-node": "^5.2.1",
+    "eslint-plugin-node": "^11.1.0",
     "eslint-plugin-promise": "^3.8.0",
     "eslint-plugin-standard": "^3.1.0",
     "ethereumjs-util": "^5.2.0",
@@ -35,7 +35,7 @@
     "solidity-coverage": "^0.5.11",
     "solium": "^1.1.7",
     "truffle": "5.0.26",
-    "truffle-hdwallet-provider": "0.0.5",
+    "truffle-hdwallet-provider": "1.0.17",
     "web3-utils": "^1.0.0-beta.34"
   },
   "dependencies": {
